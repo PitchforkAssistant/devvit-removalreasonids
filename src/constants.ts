@@ -3,6 +3,9 @@
 
 export const LABELS = {
     SHOW_REMOVAL_REASON_IDS: "Show Removal Reason IDs",
+    FORM_TITLE: "Removal Reasons",
+    FORM_CLOSE: "Close",
+    FORM_REFRESH: "Refresh",
 };
 
 export const HELP_TEXTS = {
